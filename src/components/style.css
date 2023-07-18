@@ -1,0 +1,18 @@
+body{
+    cursor: pointer;
+}
+
+ul{
+    list-style: none;
+}
+
+p{
+    color: green;
+    cursor:cell;
+}
+
+input{
+    margin-top: 5rem;
+    width:fit-content;
+    height: 20px;
+}
